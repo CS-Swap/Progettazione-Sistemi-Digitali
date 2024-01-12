@@ -6,12 +6,12 @@
 
 ---
 # Link Utili
-**Appunti:**
 - [Twiki Masini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
 
 **Tools**
-- IEEE Checker: http://weitz.de/ieee/
-
+- [CA2 Calulator](https://planetcalc.com/747/)
+- [IEEE Checker](http://weitz.de/ieee/)
+  
 # Esami (soluzioni)
 
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
