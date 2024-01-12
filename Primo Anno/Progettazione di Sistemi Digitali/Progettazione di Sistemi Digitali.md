@@ -39,7 +39,7 @@
 **Altri:**
 
 
-## Esercizzi:
+## Esercizi:
 - [Esercizio #1](https://github.com/Jaxkeeper/G-Zelda-git/issues/1)
 
 ## Appunti:
