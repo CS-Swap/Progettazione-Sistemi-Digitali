@@ -16,7 +16,7 @@
 
 ## Esami (soluzioni):
 
-|READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
+> READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
 
 **2023:**
 - [Esame 5 giugno 2023](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2023/2023-06-05-A-MZ.md)
