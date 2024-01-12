@@ -1,24 +1,15 @@
-# G-Zelda-git
 
-## Index:
-1. [Esami (soluzioni)](#Esami-(soluzioni))
-2. [Esercizi](#Esercizzi)
-3. [Appunti](#Appunti)
+## Index
+**Primo Anno:**
+- [Progettazione di sistemi digitali](Primo-Anno/Progettazione-di-Sistemi-Digitali/Progettazione-di-Sistemi-Digitali.md)
 
----
+**Secondo Anno:**
 
-## Esami (soluzioni):
 
-## Esercizzi:
+**Terzo Anno:**
 
-## Appunti:
-**Genrali:**
-- 
 
-**Verilog:**
-- 
 
-**Boole:**
-- 
 
----
+
+
