@@ -2,14 +2,14 @@
 
 ## Index:
 1. [Esami (soluzioni)](#Esami-(soluzioni))
-2. [Appunti](#Appunti)
+2. [Esercizi](#Esercizzi)
+3. [Appunti](#Appunti)
 
 ---
 
 ## Esami (soluzioni):
 
-
----
+## Esercizzi:
 
 ## Appunti:
 **Genrali:**
