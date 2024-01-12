@@ -74,6 +74,8 @@
 ## Appunti
 **Genrali:**
 - ...
+**Conversioni Numeriche:**
+- [Codifica complemento a due da Matteo il magnifico.pdf](Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Appunti/Codifica-complemento-a-due-da-Matteo-il-magnifico.pdf)
 
 **Verilog:**
 - [LA BIBBIA DI VERILOG FATTA BENE DA EDOARDO (Obsidian)](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Appunti/LA%20BIBBIA%20DI%20VERILOG%20DA%20EDOARDO.pdf)
