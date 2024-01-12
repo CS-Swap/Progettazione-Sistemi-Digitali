@@ -76,7 +76,7 @@
 - ...
 
 **Verilog:**
-- LA BIBBIA DI VERILOG DA EDOARDO (Obsidian)
+- [LA BIBBIA DI VERILOG DA EDOARDO (Obsidian)](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Appunti/LA%20BIBBIA%20DI%20VERILOG%20DA%20EDOARDO.pdf)
 
 **Boole:**
 - ...
