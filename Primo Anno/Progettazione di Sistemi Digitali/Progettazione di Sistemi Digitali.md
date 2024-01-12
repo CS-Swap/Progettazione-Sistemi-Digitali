@@ -40,7 +40,7 @@
 
 
 ## Esercizzi:
-- ...
+- [Esercizio #1](https://github.com/Jaxkeeper/G-Zelda-git/issues/1)
 
 ## Appunti:
 **Genrali:**
