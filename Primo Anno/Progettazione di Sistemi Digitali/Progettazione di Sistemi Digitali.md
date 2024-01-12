@@ -5,14 +5,14 @@
 4. [Appunti](#Appunti)
 
 ---
-# Link Utili:
+# Link Utili
 **Appunti:**
 - [Twiki Masini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
 
 **Tools**
 - IEEE Checker: http://weitz.de/ieee/
 
-# Esami (soluzioni):
+# Esami (soluzioni)
 
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
 > 
@@ -41,7 +41,7 @@
 **Altri:**
 
 
-# Esercizi: 
+# Esercizi
 
 **🏗️ WORK IN PROGRES 🏗️**
 
@@ -71,7 +71,7 @@
 
 - [Esercizio #1](https://github.com/Jaxkeeper/G-Zelda-git/issues/1)
 
-## Appunti:
+## Appunti
 **Genrali:**
 - ...
 
