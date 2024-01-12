@@ -41,7 +41,7 @@
 **Altri:**
 
 
-# Esercizi:
+# Esercizi: 🏗️ WORK IN PROGRES 🏗️
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
 
 ### Verilog:
