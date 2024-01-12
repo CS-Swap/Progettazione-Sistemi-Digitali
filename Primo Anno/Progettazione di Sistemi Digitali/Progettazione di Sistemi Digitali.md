@@ -15,6 +15,9 @@
 - http://weitz.de/ieee/
 
 ## Esami (soluzioni):
+
+|READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
+
 **2023:**
 - [Esame 5 giugno 2023](/Primo-Anno/Progettazione-di-Sistemi-Digitali/Esami/2023-06-05-A-MZ.md)
 - [Esame 8 febbraio 2023 - B](/Primo-Anno/Progettazione-di-Sistemi-Digitali/Esami/2023/2023-02-08-B-MZ.md)
