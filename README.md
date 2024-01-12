@@ -1,8 +1,8 @@
 # G-Zelda-git
 
 ## Index:
-1. [Esami (soluzioni)](#Esami-(soluzioni):)
-2. [Appunti](#Appunti:)
+1. [Esami (soluzioni)](#Esami-(soluzioni))
+2. [Appunti](#Appunti)
 
 ---
 
