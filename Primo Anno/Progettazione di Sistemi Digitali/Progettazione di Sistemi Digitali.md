@@ -26,9 +26,10 @@
 - [Esame 18 gennaio 2023 - A](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2023/2023-01-18-A-MZ.md)
 
 **2022:**
-- [Esame 7 settembre 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-09-06-MZ.md)
+- [Esame 7 settembre 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-09-07-MZ.md)
+- [Esame 7 settembre 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-09-07-MZ.pdf)
 - [Esame 28 giugno 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-06-28-MZ.md)
-- [Esame 7 giugno 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-06-07-MZ.pdf)
+- [Esame 7 giugno 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-06-07-MZ.md)
 - [Esame 1 febbraio 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-02-01-MZ.md)
 - [Esame 11 gennaio 2022](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2022/2022-01-11-MZ.md)
 
