@@ -10,7 +10,7 @@
 - [Twiki Masini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
 
 **Tools**
-- http://weitz.de/ieee/
+- IEEE Checker: http://weitz.de/ieee/
 
 # Esami (soluzioni):
 
