@@ -72,8 +72,7 @@
 - [Esercizio #1](https://github.com/Jaxkeeper/G-Zelda-git/issues/1)
 
 ## Appunti
-**Genrali:**
-- ...
+
 **Conversioni Numeriche:**
 - [Codifica complemento a due da Matteo il magnifico.pdf](Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Appunti/Codifica-complemento-a-due-da-Matteo-il-magnifico.pdf)
 
