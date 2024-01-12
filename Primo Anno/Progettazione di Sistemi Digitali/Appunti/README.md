@@ -1,0 +1,1 @@
+In questa cartella possiamo caricare tuutti gli appunti divisi per argomenti, mi raccomando aggiorna il file [progettazione di sistemi digitali.md](/Primo-Anno/Progettazione-di-Sistemi-Digitali/Progettazione-di-Sistemi-Digitali.md) nella sezione appunti con il nuovi file
