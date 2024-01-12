@@ -6,7 +6,7 @@
 
 ---
 # Link Utili
-- [Twiki Masini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
+- [Twiki Massini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
 
 **Tools**
 - [CA2 Calulator](https://planetcalc.com/747/)
