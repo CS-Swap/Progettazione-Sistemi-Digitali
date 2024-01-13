@@ -9,7 +9,7 @@
 - [Twiki Massini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
 
 **Tools**
-- [BooleanTT](https://booleantt.hazeapps.com/) (sito con tooles per calcolare qualsiasi cosa riguardante l'algebra booleana)
+- [BooleanTT](https://booleantt.hazeapps.com/) (sito con tools per calcolare qualsiasi cosa riguardante l'algebra booleana)
 - [CA2 Calulator](https://planetcalc.com/747/)
 - [IEEE Checker](http://weitz.de/ieee/)
   
