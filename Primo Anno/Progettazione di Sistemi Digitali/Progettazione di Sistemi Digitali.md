@@ -51,6 +51,7 @@
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
 
 ### Verilog:
+### [Esercizi Vari](https://github.com/Jaxkeeper/G-Zelda-git/issues/31)
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
 | [01](../../issues/)  | [02]()  | [03]()  | [04]()  | [05]()  | [06]()  | [07]()  | [08]()  |
