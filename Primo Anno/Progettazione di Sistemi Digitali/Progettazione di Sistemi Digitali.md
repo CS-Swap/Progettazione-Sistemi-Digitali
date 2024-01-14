@@ -1,11 +1,13 @@
-# Index:
+# Progettazione di Sistemi Digitali
+
+## Index:
 1. [Link Utili](#Link-Utili)
 2. [Esami (soluzioni)](#Esami-(soluzioni))
 3. [Esercizi](#Esercizzi)
 4. [Appunti](#Appunti)
 
 ---
-# Link Utili
+## Link Utili
 - [Twiki Massini](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O)
 
 **Tools**
@@ -13,7 +15,7 @@
 - [CA2 Calulator](https://planetcalc.com/747/)
 - [IEEE Checker](http://weitz.de/ieee/)
   
-# Esami (soluzioni)
+## Esami (soluzioni)
 
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
 > 
