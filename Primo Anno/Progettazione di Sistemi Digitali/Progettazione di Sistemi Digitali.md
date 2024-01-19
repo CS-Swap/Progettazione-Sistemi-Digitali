@@ -43,6 +43,7 @@
 - [Esame 26 gennaio 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-01-26-MZ.md)
 
 ## Altri:
+⚒️ -- work in progress -- ⚒️
 
 ---
 
