@@ -13,7 +13,8 @@
 - [BooleanTT](https://booleantt.hazeapps.com/) (sito con tools per calcolare qualsiasi cosa riguardante l'algebra booleana)
 - [CA2 Calulator](https://planetcalc.com/747/)
 - [IEEE Checker](http://weitz.de/ieee/)
-  
+
+---  
 ## Esami (soluzioni)
 
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
@@ -59,3 +60,4 @@
 **Boole:**
 - ...
 
+---
