@@ -22,7 +22,7 @@
 > Altre soluzioni: [psd-sapienza-student-network](https://github.com/sapienzastudentsnetwork/psd2223)
 
 ### 2024
-- [Esame 16 Gennaio 2024](https://github.com/marigeek/G-Zelda-git/blob/main/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/16-01-2024.md)
+- [Esame 16 Gennaio 2024](https://github.com/marigeek/G-Zelda-git/blob/main/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/16-01-2024.md) Matteo spostalo nella cartella e aggiorna indice
 
 ### 2023:
 - [Esame 5 giugno 2023](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2023/2023-06-05-A-MZ.md)
