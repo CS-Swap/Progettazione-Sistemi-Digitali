@@ -52,7 +52,7 @@
 ---
 ## Esercizzi:
 - [Verilog](https://github.com/marigeek/G-Zelda-git/issues/31)
-- [Tutoraggio 2023]()
+- [Tutoraggio 2023](https://github.com/marigeek/G-Zelda-git/blob/main/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esercizzi/Tutoraggio%202023/Tutoraggio2023.md)
 
 ## Appunti
 
