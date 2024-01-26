@@ -50,6 +50,10 @@
 ⚒️ -- work in progress -- ⚒️
 
 ---
+## Esercizzi:
+**Verilog:**
+
+**Tutoraggio 2023:**
 
 ## Appunti
 
