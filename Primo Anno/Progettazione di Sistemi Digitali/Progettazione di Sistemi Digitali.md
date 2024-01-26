@@ -51,7 +51,7 @@
 
 ---
 ## Esercizzi:
-- [Verilog]()
+- [Verilog](https://github.com/marigeek/G-Zelda-git/issues/31)
 - [Tutoraggio 2023]()
 
 ## Appunti
