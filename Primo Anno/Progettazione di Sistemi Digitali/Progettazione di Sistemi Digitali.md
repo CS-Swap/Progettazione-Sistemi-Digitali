@@ -51,9 +51,8 @@
 
 ---
 ## Esercizzi:
-**Verilog:**
-
-**Tutoraggio 2023:**
+- [Verilog]()
+- [Tutoraggio 2023]()
 
 ## Appunti
 
