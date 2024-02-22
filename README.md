@@ -15,7 +15,7 @@
 - [IEEE Checker](http://weitz.de/ieee/)
 
 ---  
-## Esami (soluzioni)
+## Esami (con soluzioni)
 
 > READ: [Come aggiungere un esame/esercizio](Come-aggiungere-un-esame-esercizio.md)
 > 
@@ -47,10 +47,11 @@
 - [Esame 26 Gennaio 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-01-26-MZ.md)
 
 ---
-## Esercizzi:
+## Esercizzi (con soluzioni):
 - [Verilog](https://github.com/marigeek/G-Zelda-git/issues/31)
 - [Tutoraggio 2023](https://github.com/marigeek/G-Zelda-git/blob/main/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esercizzi/Tutoraggio%202023/Tutoraggio2023.md)
 
+---
 ## Appunti
 
 **Conversioni Numeriche:**
