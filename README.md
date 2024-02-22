@@ -2,8 +2,8 @@
 
 ## Index:
 1. [Link Utili](#Link-Utili)
-2. [Esami (con soluzioni)](#Esami-(con-soluzioni))
-3. [Esercizzi (con soluzioni)](#Esercizzi-(con-soluzioni))
+2. [Esami (con soluzioni)](#esami-con-soluzioni)
+3. [Esercizzi (con soluzioni)](#esercizzi-con-soluzioni)
 4. [Appunti](#Appunti)
 
 ---
