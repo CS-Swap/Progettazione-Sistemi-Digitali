@@ -43,7 +43,7 @@
 - [Esame 13 Settembre 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-09-13-MZ.md)
 - [Esame 12 Luglio 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-07-12-MZ.md)
 - [Esame 21 Giugno 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-06-21-MZ.md)
-- [Esame 16 Febbraio 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-02-16-MZ.md)
+- [Esame 16 Febbraio 2021 - A+B](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-02-16-MZ.md)
 - [Esame 26 Gennaio 2021](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2021/2021-01-26-MZ.md)
 
 ### Altri:
