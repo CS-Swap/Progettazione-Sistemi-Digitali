@@ -20,7 +20,7 @@
 > Altre soluzioni: [psd-sapienza-student-network](https://github.com/sapienzastudentsnetwork/psd2223)
 
 ### 2024:
-- [Esame 16 Gennaio 2024](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2024/2024-01-16.md) fare file.md
+- [Esame 16 Gennaio 2024](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2024/2024-01-16.md)
 
 ### 2023:
 - [Esame 5 Giugno 2023](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2023/2023-06-05-A-MZ.md)
