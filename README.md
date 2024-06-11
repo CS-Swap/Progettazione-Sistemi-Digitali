@@ -16,8 +16,6 @@
 - [IEEE Checker](http://weitz.de/ieee/)
 
 ---  
-## Esami (con soluzioni)
-> Altre soluzioni: [psd-sapienza-student-network](https://github.com/sapienzastudentsnetwork/psd2223)
 
 ### 2024:
 - [Esame 16 Gennaio 2024](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esami/2024/2024-01-16.md)
