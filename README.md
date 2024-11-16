@@ -29,8 +29,8 @@
 ## Altre Risorse
 
 >**Esercizi visti a lezione:**
->- [Verilog](https://github.com/marigeek/G-Zelda-git/issues/31)
->- [Tutoraggio 2023](https://github.com/marigeek/G-Zelda-git/blob/main/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esercizzi/Tutoraggio%202023/Tutoraggio2023.md)
+>- [Verilog](../../issues/31)
+>- [Tutoraggio 2023](/Primo%20Anno/Progettazione%20di%20Sistemi%20Digitali/Esercizzi/Tutoraggio%202023/Tutoraggio2023.md)
 
 >**Tool Utili:**
 >- [BooleanTT](https://booleantt.hazeapps.com/)
